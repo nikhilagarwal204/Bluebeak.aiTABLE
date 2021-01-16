@@ -11,3 +11,7 @@ OR
 
 
 3) Run the ReactR code in RStudio by running the STATS_TABLE.r file.
+
+4) FINAL_TABLE.html is the final table produced which can be used anywhere.
+
+5) DEMO.png is the Pictorial View of the FINAL_TABLE.html.
