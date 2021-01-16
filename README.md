@@ -6,4 +6,6 @@ OR
 
    Download R and RStudio for Ubuntu - https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-ubuntu-12-04-14-04-16-04-b6b3107f7779
 
-2) install.packages("reactable")
+2) install.packages("reactable") command in RStudio
+
+3) Run the ReactR code in RStudio by running the STATS_TABLE.r file.
